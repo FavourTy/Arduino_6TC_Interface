@@ -29,3 +29,5 @@ MAX6675 Modules:
 * Open the Arduino IDE and upload the provided code in this reposistory to your Arduino Nano board.
 * Open the Serial Monitor (baud rate: 9600) to view the temperature readings from the thermocouples.
 * The serial monitor will display temperature readings for each thermocouple (T1 to T6) in Celsius.
+
+![IMG_20231031_175303_307](https://github.com/FavourTy/Arduino_6TC_Interface/assets/104866434/e9eb1243-3c3d-421c-a040-fd6d2872c487)
